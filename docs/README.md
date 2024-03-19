@@ -2,4 +2,4 @@
 
 reusable-workflows-ci-python
 
-Estou na raiz do projeto
+Estou na pasta docs
