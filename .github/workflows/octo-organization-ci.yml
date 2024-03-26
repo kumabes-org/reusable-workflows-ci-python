@@ -4,7 +4,7 @@ on: push
 
 jobs:
   build:
-    runs-on: "github-runner"
+    runs-on: ["self-hosted", "github-runner"]
 
     steps:
       - uses: actions/checkout@v4
